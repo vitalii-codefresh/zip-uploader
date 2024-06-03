@@ -1,0 +1,25 @@
+{
+  "name": "zip-uploader",
+  "version": "1.0.0",
+  "description": "for sending bills from archives",
+  "main": "build/app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Vitalii Chyrka",
+  "dependencies": {
+    "@types/adm-zip": "^0.5.5",
+    "@types/express": "^4.17.21",
+    "@types/formidable": "^3.4.5",
+    "@types/multer": "^1.4.11",
+    "@types/node": "^20.12.13",
+    "adm-zip": "^0.5.13",
+    "express": "^4.19.2",
+    "i": "^0.3.7",
+    "log4js": "^6.9.1",
+    "multer": "^1.4.5-lts.1",
+    "npm": "^10.8.1"
+  }
+}
